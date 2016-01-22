@@ -1,0 +1,7 @@
+[pipdig_left]
+This text goes to the left
+[/pipdig_left]
+
+[pipdig_right]
+...and this text goes to the right
+[/pipdig_right]
